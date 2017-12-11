@@ -1,7 +1,7 @@
 Title: Luca... ¿Así se llama? - Prólogo
 Date: 2017-12-10 20:30
 Tags: terror, misterio, muerte, luca
-Slug: luca-prologo
+Slug: luca-prologue
 Authors: Sabrina Bernardelli
 Lang: es
 

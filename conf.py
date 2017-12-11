@@ -10,8 +10,8 @@ sys.path.append(os.curdir)
 
 SITEURL = 'https://SabrinaBernardelli.github.io/'
 RELATIVE_URLS = False
-AUTHOR = 'Sabrina Bernardelli'
-SITENAME = 'Sabrina Bernardelli'
+AUTHOR = 'Zam Ackerman'
+SITENAME = 'Zam Ackerman'
 DELETE_OUTPUT_DIRECTORY = True
 PATH = 'content'
 TIMEZONE = 'America/Argentina/Buenos_Aires'
