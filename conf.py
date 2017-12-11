@@ -50,6 +50,8 @@ PAGE_SAVE_AS = 'pages/{slug}/index.html'
 
 YEAR_ARCHIVE_SAVE_AS = 'posts/{date:%Y}/index.html'
 MONTH_ARCHIVE_SAVE_AS = 'posts/{date:%Y}/{date:%b}/index.html'
+AUTHOR_AVATAR = "https://pbs.twimg.com/profile_images/885213794603028480/mkDFAD6X_400x400.jpg"
+
 
 # Blogroll 
 
