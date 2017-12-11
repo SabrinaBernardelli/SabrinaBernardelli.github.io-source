@@ -1,0 +1,55 @@
+{% extends "base.html" %}
+
+{% block title %}Author &ndash; {{ SITENAME }}{% endblock %}
+
+{% block content %}
+
+<br><br>
+
+<div class="w3-container col-main">
+  <h1>Author</h1>
+
+  <br>
+
+  {%- for author, articles in authors|sort %}
+    {% if author==AUTHOR %}
+    <div id="{{ author.page_name[7:] }}" class="w3-white w3-border w3-border-green" style="padding: 24px;">
+      {% include "partials/author_list_item_head.html" %}
+
+      <p style="font-size: 12pt; font-style: italic; margin-top: 36px;">{{ AUTHOR_DESCRIPTION }}</p>
+
+      <div style="display: flex; flex-wrap: wrap;">
+        <a class="w3-btn w3-green w3-right" style="margin-top: 12px;" href="{{ SITEURL }}/{{ author.url }}">All articles &#10093;</a>
+      </div>
+    </div>
+
+    <br><br><br>
+
+    {% endif %}
+  {% endfor %}
+
+  {% if authors|count > 1 %}
+    <h2>Other authors</h2>
+    <br>
+
+    {%- for author, articles in authors|sort %}
+      {% if author!=AUTHOR %}
+      <div id="{{ author.page_name[7:] }}" class="w3-white w3-border w3-border-grey" style="padding: 24px;">
+        {% include "partials/author_list_item_head.html" %}
+
+        <p style="font-size: 12pt; font-style: italic; margin-top: 36px;">check</p>
+
+        <div style="display: flex; flex-wrap: wrap;">
+          <a class="w3-btn w3-green w3-right" style="margin-top: 12px; margin-left: auto;" href="{{ SITEURL }}/{{ author.url }}">All articles &#10093;</a>
+        </div>
+      </div>
+
+      <br><br><br>
+
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+
+</div>
+
+{% endblock content %}

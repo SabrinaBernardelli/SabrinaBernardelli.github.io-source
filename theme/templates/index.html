@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+
+{% block content_title %}
+  {% if articles_page.number == 1 %}
+   {% include 'partials/introduction.html' %}
+  {% endif %}
+{% endblock %}
+
+{% block content %}
+
+  <br>
+  
+  <section id="listing">
+    
+    {% include 'partials/article_loop.html' %}
+
+    {% if articles_page.has_other_pages() %}
+      {% include 'partials/pagination.html' %}
+      <br>
+    {% endif %}
+
+  </section>
+
+{% endblock content %}
