@@ -8,7 +8,7 @@ sys.path.append(os.curdir)
 
 # Server
 
-SITEURL = 'https://SabrinaBernardelli.github.io/'
+SITEURL = 'https://ZamAckerman.github.io/'
 RELATIVE_URLS = False
 AUTHOR = 'Zam Ackerman'
 SITENAME = 'Zam Ackerman'
