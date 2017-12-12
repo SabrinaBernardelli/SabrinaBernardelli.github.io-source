@@ -4,7 +4,7 @@ Tags: futuro, carta, sociedad, desastre
 Slug: otra-carta-cualquiera
 Authors: Zam Ackerman
 Lang: es
-cover: https://zamackerman.files.wordpress.com/2016/11/otra-carta-cualquiera.jpeg?w=1700
+headerimage: https://zamackerman.files.wordpress.com/2016/11/otra-carta-cualquiera.jpeg?w=1700
 
 ![cuentito](https://zamackerman.files.wordpress.com/2016/11/otra-carta-cualquiera.jpeg?w=1700)
 
