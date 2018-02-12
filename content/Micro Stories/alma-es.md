@@ -2,7 +2,7 @@ Title: Alma
 Date: 2017-12-10 20:45
 Tags: pending
 Slug: alma
-Authors: Sabrina Bernardelli
+Authors: Zam Ackerman
 Lang: es
 
 Estoy varios metros bajo tierra en este sótano, el hombre que me trajo aquí se fue hace varias horas y solo quedé yo, bueno, yo y el cuerpo junto a mí, eso es lo que más me aterra. Cuando desperté él ya estaba aquí, a primera vista pensé que estaba dormido, pero luego, la pobre luz de una bombilla me mostró que no era así. 
