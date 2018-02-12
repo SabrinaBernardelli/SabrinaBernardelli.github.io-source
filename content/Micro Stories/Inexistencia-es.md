@@ -2,7 +2,7 @@ Title: Inexistencia
 Date: 2017-12-10 21:00
 Tags: pelican, publishing
 Slug: inexcistencia
-Authors: Sabrina Bernardelli
+Authors: Zam Ackerman 
 Lang: es
 
 Es el día 32 del mes 13, fecha que todos bautizamos "El Día Eterno" porque claro, este fue el día en que la eternidad comenzó. Hace ya tiempo que vivimos en este día ¡que digo tiempo! esa palabra dejó de usarse, valga la redundancia, hace ya mucho tiempo. Aquí no existen los relojes, ya no recuerdo ni cómo eran, pero servían para dar "la hora" en este día no existe algo como la hora, si quieren algo aproximado, estamos en el primer segundo, del primer minuto, de la primer hora de este día. Y si, aquí es de día siempre, aunque el sol y la luna no existen, no, esos se quedaron en el día 31 del mes 12, como todo lo que se consideraba normal.
